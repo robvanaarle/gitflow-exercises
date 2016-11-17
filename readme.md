@@ -6,3 +6,4 @@ This is a collection of Hello World programs
 
 - Ruby (hello.rb)
 - CSS (hello-css.html)
+- Go (hello.go)

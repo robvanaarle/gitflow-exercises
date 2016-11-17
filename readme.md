@@ -8,3 +8,4 @@ This is a collection of Hello World programs
 - CSS (hello-css.html)
 - Haskell (hello.hs)
 - Bash (hello.sh)
+- Rust (hello.rs)

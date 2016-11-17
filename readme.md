@@ -4,4 +4,4 @@ This is a collection of Hello World programs
 
 ## Available variants
 
-- Ruby
+- Ruby (hello.rb)
